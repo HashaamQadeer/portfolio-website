@@ -1,0 +1,19 @@
+CV FILE SETUP INSTRUCTIONS
+===========================
+
+To enable the CV download functionality:
+
+1. Create or export your CV as a PDF file
+2. Name the file exactly: "cv.pdf"
+3. Place it in the same directory as index.html (the root folder)
+4. The download button will automatically work once the file is in place
+
+The download link in index.html is already configured to look for "cv.pdf" in the root directory.
+
+You can use any PDF creation tool:
+- Google Docs (File > Download > PDF)
+- Microsoft Word (File > Save As > PDF)
+- Online PDF converters
+- LaTeX (if you prefer)
+
+Make sure the file is named "cv.pdf" (lowercase) for it to work correctly.
